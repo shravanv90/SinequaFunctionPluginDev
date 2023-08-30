@@ -21,8 +21,9 @@ A Streamlit application that interacts with OpenAI's GPT-3.5 Turbo model to gene
 
 1. **Clone the Repository**:
 
-   `git clone https://github.com/shravanv90/SinequaFunctionPluginDev.git
-cd SinequaFunctionPluginDev`
+   `git clone https://github.com/shravanv90/SinequaFunctionPluginDev.git`
+
+   `cd SinequaFunctionPluginDev`
 
 2. **Set Up a Virtual Environment (Optional but Recommended)**:
 
